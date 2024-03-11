@@ -10,140 +10,140 @@ proxies:
   port: 43796
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u7F8E\u56FD 2"
   server: sh.pddwdf.store
   port: 42990
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u65B0\u52A0\u5761 1"
   server: gz.pddwdf.store
   port: 19191
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u65B0\u52A0\u5761 2"
   server: sh.pddwdf.store
   port: 18613
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u9999\u6E2F 1"
   server: sh.pddwdf.store
   port: 19509
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u9999\u6E2F 2"
   server: gz.pddwdf.store
   port: 41526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u65E5\u672C 1"
   server: sh.pddwdf.store
   port: 21835
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u65E5\u672C 2"
   server: gz.pddwdf.store
   port: 39861
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u53F0\u6E7E 1"
   server: gz3.pddwdf.store
   port: 11159
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u53F0\u6E7E 2"
   server: sh-z.pddwdf.store
   port: 47915
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u97E9\u56FD 1"
   server: sh.pddwdf.store
   port: 43386
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u97E9\u56FD 2"
   server: gz.pddwdf.store
   port: 47975
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u5DF4\u897F 1"
   server: gz.pddwdf.store
   port: 19434
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u5DF4\u897F 2"
   server: sh.pddwdf.store
   port: 38597
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u52A0\u62FF\u5927 1"
   server: gz.pddwdf.store
   port: 11235
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u52A0\u62FF\u5927 2"
   server: sh.pddwdf.store
   port: 31765
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u5FB7\u56FD 1"
   server: gz.pddwdf.store
   port: 44106
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u5FB7\u56FD 2"
   server: sh.pddwdf.store
   port: 30832
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u6FB3\u5927\u5229\u4E9A 1"
   server: sh.pddwdf.store
   port: 27640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 - name: "\u6FB3\u5927\u5229\u4E9A 2"
   server: gz.pddwdf.store
   port: 15782
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 36cfb67d-4be2-4791-a759-45f621ceff2f
+  password: 4ecf3057-d2eb-4fa0-b5eb-0ffad5157235
   udp: true
 proxy-groups:
 - name: "\U0001F530 \u8282\u70B9\u9009\u62E9"
